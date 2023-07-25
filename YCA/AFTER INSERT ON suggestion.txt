@@ -1,0 +1,15 @@
+AFTER INSERT ON suggestion
+FOR EACH ROW
+BEGIN
+
+  
+  IF (ctype="python") THEN
+    UPDATE python SET cid = suggestion.cid;
+     UPDATE python SET cname= suggestion.cname;
+      UPDATE python SET tot_views = suggestion.tot_views;
+       UPDATE python SET uploads = suggestion.uploads;
+        UPDATE python SET subscribers = suggestion.subscribers;
+         UPDATE python SET ylink = suggestion.ylink;
+     
+  END IF;
+  end;

@@ -1,0 +1,172 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\irshad ahmed\\Desktop\\mysql-connector-java-8.0.27.jar"
+		],
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "sample",
+				"database": "myshow",
+				"username": "admin",
+				"password": ""
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca1",
+				"database": "master",
+				"username": "irshad"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": false,
+				"driver": "MySQL",
+				"name": "yca2",
+				"database": "master",
+				"username": "MSSQLSERVER"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca",
+				"database": "master",
+				"username": "yca"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca4",
+				"database": "master",
+				"username": "yca"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca",
+				"database": "master",
+				"username": "israr99862388211@gmail.com"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca2",
+				"database": "master",
+				"username": "israr9986238821@gmail.com"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca2",
+				"database": "master",
+				"username": "israr99862388212gmail.com"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MariaDB",
+				"name": "yut",
+				"database": "master",
+				"username": "israr9986238821@gmail.com"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "yca",
+				"database": "master",
+				"username": "israr9986238821@gmail.com"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MariaDB",
+				"name": "yca",
+				"database": "master",
+				"username": "root"
+			}
+		],
+		"java.completion.enabled": false,
+		"java.debug.settings.enableRunDebugCodeLens": false,
+		"maven.view": "flat",
+		"maven.projectOpenBehavior": "Open",
+		"terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+	},
+	"extensions": {
+		"recommendations": [
+			"vscjava.vscode-java-pack"
+		]
+	}
+}
